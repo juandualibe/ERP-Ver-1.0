@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|c:\\users\\juand\\onedrive\\documentos\\proyectos c#\\grupo negocio\\sistemas\\sol_sisventas\\sisventas\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|solutionrelative:sisventas\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|c:\\users\\juand\\onedrive\\documentos\\proyectos c#\\grupo negocio\\sistemas\\sol_sisventas\\sisventas\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|solutionrelative:sisventas\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|c:\\users\\juand\\onedrive\\documentos\\proyectos c#\\grupo negocio\\sistemas\\sol_sisventas\\sisventas\\presentacion\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0525A651-5946-41F1-B241-C1B01BED102C}|SisVentas\\SisVentas.csproj|solutionrelative:sisventas\\presentacion\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Principal.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "SisVentas\\Presentacion\\Frm_Principal.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Principal.cs",
+              "RelativeToolTip": "SisVentas\\Presentacion\\Frm_Principal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:04:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Login.cs",
+              "RelativeDocumentMoniker": "SisVentas\\Presentacion\\Frm_Login.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SisVentas\\Presentacion\\Frm_Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:50:42.288Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "SisVentas\\Presentacion\\Frm_Principal.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\Proyectos C#\\Grupo Negocio\\Sistemas\\Sol_SisVentas\\SisVentas\\Presentacion\\Frm_Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SisVentas\\Presentacion\\Frm_Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:23:48.687Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
