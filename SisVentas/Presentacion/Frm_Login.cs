@@ -123,5 +123,10 @@ namespace SisVentas.Presentacion
         {
 
         }
+
+        private void pnlLogin_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

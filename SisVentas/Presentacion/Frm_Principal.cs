@@ -12,10 +12,10 @@ namespace SisVentas.Presentacion
 
             // Configuración inicial
             this.Text = string.Empty;
-            this.ControlBox = true;
+            this.ControlBox = false;
             /*this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;*/
             this.FormBorderStyle = FormBorderStyle.Sizable; // Permite redimensionar la ventana
-            this.WindowState = FormWindowState.Maximized; // Maximiza la ventana al iniciar
+            /*this.WindowState = FormWindowState.Maximized; // Maximiza la ventana al iniciar*/
         }
 
         #region "Mis Variables"
@@ -43,13 +43,13 @@ namespace SisVentas.Presentacion
             
 
             // Configura el tamaño y la ubicación del panel de opciones
-            Pnl_opciones.Dock = DockStyle.Right; // Ajusta al lado izquierdo
-            Pnl_opciones.Width = 200; // Ajusta el ancho según tus necesidades
+            /*Pnl_opciones.Dock = DockStyle.Right;*/ // Ajusta al lado izquierdo
+            /*Pnl_opciones.Width = 200;*/ // Ajusta el ancho según tus necesidades
 
             // Configura otros paneles para ajustarse al redimensionar la ventana
-            Pnl_contenido.Dock = DockStyle.Fill; // Llena el área restante del formulario
+            /*Pnl_contenido.Dock = DockStyle.Fill;*/ // Llena el área restante del formulario
            
-            Pnl_titulo.Dock = DockStyle.Top; // Ajusta al área superior del formulario
+            /*Pnl_titulo.Dock = DockStyle.Top;*/ // Ajusta al área superior del formulario
         }
 
         private void Pnl_titulo_MouseDown(object sender, MouseEventArgs e)
@@ -116,6 +116,12 @@ namespace SisVentas.Presentacion
         private void Pnl_titulo_Paint(object sender, PaintEventArgs e)
         {
             // Lógica para pintar el panel de título si es necesario
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+            Frm_Usuarios oFrm_us = new Frm_Usuarios();
+            oFrm_us.ShowDialog();
         }
     }
 }

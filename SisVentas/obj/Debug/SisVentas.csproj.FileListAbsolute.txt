@@ -46,3 +46,4 @@ C:\Users\juand\OneDrive\Documentos\Proyectos C#\Grupo Negocio\Sistemas\Sol_SisVe
 C:\Users\juand\OneDrive\Documentos\Proyectos C#\Grupo Negocio\Sistemas\Sol_SisVentas\SisVentas\obj\Debug\SisVentas.pdb
 C:\Users\juand\OneDrive\Documentos\Proyectos C#\Grupo Negocio\Sistemas\Sol_SisVentas\SisVentas\obj\Debug\SisVentas.Presentacion.Frm_Principal.resources
 C:\Users\juand\OneDrive\Documentos\Proyectos C#\Grupo Negocio\Sistemas\Sol_SisVentas\SisVentas\obj\Debug\SisVentas.Presentacion.Frm_Login.resources
+C:\Users\juand\OneDrive\Documentos\Proyectos C#\Grupo Negocio\Sistemas\Sol_SisVentas\SisVentas\obj\Debug\SisVentas.Presentacion.Frm_Usuarios.resources
